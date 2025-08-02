@@ -62,12 +62,6 @@ This task is an excellent opportunity to combine UI/UX design principles with fr
 
 #OUTPUT
 
-
-
-
-
-
-
-
+<img width="1900" height="909" alt="Image" src="https://github.com/user-attachments/assets/966b9c51-f564-4267-80d4-33171ac11adb" />
 
 
